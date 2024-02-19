@@ -1,8 +1,8 @@
 # voting-age
 
-**First Name:**
+**First Name: Francis**
 
-**Last Name:**
+**Last Name: Cyr**
 
 Go to `voting-age.js` and implement the function `checkVotingAge()`. 
 
